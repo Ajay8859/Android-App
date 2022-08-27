@@ -1,0 +1,119 @@
+<ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="1155dp"
+        android:layout_height="1469dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="-3dp"
+        android:layout_marginBottom="-1dp"
+        app:srcCompat="@drawable/four"
+        tools:layout_editor_absoluteX="-104dp"
+        tools:layout_editor_absoluteY="-35dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="70dp"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="289dp"
+        android:layout_marginTop="4dp"
+        app:srcCompat="@drawable/m"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="124dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="70dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="11dp"
+        android:layout_marginEnd="298dp"
+        app:srcCompat="@drawable/c1" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="70dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="168dp"
+        android:layout_marginEnd="47dp"
+        app:srcCompat="@drawable/blue" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="265dp"
+        android:layout_marginTop="102dp"
+        android:layout_marginEnd="23dp"
+        android:background="#FFEB3B"
+        android:text="Music"
+        android:textColor="#E91E63"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="107dp"
+        android:layout_marginEnd="232dp"
+        android:background="#FFEB3B"
+        android:text="Calculator"
+        android:textColor="#E65100"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="70dp"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="168dp"
+        app:srcCompat="@drawable/t" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="134dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="417dp"
+        android:background="#FFEB3B"
+        android:text="Torch"
+        android:textColor="#E65100"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="187dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="216dp"
+        android:layout_marginTop="267dp"
+        android:layout_marginEnd="8dp"
+        android:background="#FFEB3B"
+        android:text="Bluetooth"
+        android:textColor="#E91E63"
+        android:textSize="30dp"
+        android:textStyle="bold" />

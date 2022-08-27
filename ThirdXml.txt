@@ -1,0 +1,22 @@
+<ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="421dp"
+        android:layout_height="729dp"
+        app:srcCompat="@drawable/third"
+        tools:layout_editor_absoluteX="-5dp"
+        tools:layout_editor_absoluteY="3dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="236dp"
+        android:background="#8BC34A"
+        android:text="MENU"
+        android:textColor="#E91E63"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="606dp" />

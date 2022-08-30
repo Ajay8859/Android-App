@@ -9,7 +9,8 @@
         android:layout_marginBottom="326dp"
         android:background="#3F51B5"
         android:text="Text to Speech"
-        android:textColor="#FF9800" />
+        android:textColor="#FF9800"
+        android:textStyle="bold|italic" />
 
     <EditText
         android:id="@+id/editText7"
@@ -21,3 +22,15 @@
         android:layout_marginTop="181dp"
         android:ems="10"
         android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:background="#3F51B5"
+        android:text="Back to Menu"
+        android:textColor="#FF9800"
+        android:textStyle="bold|italic" />
